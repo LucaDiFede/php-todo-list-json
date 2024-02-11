@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Fare la spesa",
+        "status": false
+    },
+    {
+        "task": "Comprare un capibara",
+        "status": false
+    },
+    {
+        "task": "Chiamare Tonino",
+        "status": false
+    }
+]
